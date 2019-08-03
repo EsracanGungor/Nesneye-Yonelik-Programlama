@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="cc" red="cc" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="gungezgini" alignment="0" max="32767" attributes="0"/>
+                              <Component id="zaman" alignment="0" max="32767" attributes="0"/>
+                              <Component id="ikıgai" alignment="0" max="32767" attributes="0"/>
+                              <Component id="fahrenheit" alignment="0" max="32767" attributes="0"/>
+                              <Component id="GaziMustafaKemalAtatürk" alignment="0" max="32767" attributes="0"/>
+                              <Component id="hayvanciftligi" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="136" max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="39" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="acılınben" pref="287" max="32767" attributes="0"/>
+                              <Component id="benneyim" max="32767" attributes="0"/>
+                              <Component id="sokrates" max="32767" attributes="0"/>
+                              <Component id="english" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="92" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="siparis_goster" max="32767" attributes="0"/>
+                              <Component id="odemeyapbutonu" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+                  <Component id="hayvanciftligi" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="fahrenheit" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="ikıgai" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="GaziMustafaKemalAtatürk" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="zaman" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="gungezgini" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="acılınben" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="benneyim" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="sokrates" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="english" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                  <Component id="siparis_goster" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="odemeyapbutonu" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace pref="29" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JCheckBox" name="hayvanciftligi">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Hayvan &#xc7;iftli&#x11f;i George Orwell-19TL"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="hayvanciftligiActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="fahrenheit">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Fahrenheit 451 Ray Bradbury-12TL"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="ik&#x131;gai">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Ik&#x131;gai Hector Garcia-18 TL"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="GaziMustafaKemalAtat&#xfc;rk">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Gazi Mustafa Kemal Atat&#xfc;rk &#x130;lber Ortayl&#x131;-35TL"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="siparis_goster">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siparisleri Ver"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="siparis_gosterActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kitap Listesi"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="zaman">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Zaman&#x131;n K&#x131;sa Tarihi Stephen Hawking-25TL"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="gungezgini">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="G&#xfc;ngezgini Gabriel Ba-50TL"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="ac&#x131;l&#x131;nben">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A&#xe7;&#x131;l&#x131;n Ben &#xd6;&#x11f;retmenim M&#xfc;jdat Ataman-29TL"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="sokrates">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Sokrates&apos;in Savunmas&#x131; Platon-12TL"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="english">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="English Grammar Today Murat Kurt-55TL"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="benneyim">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Ben Ney&#x2019;im Hakan Meng&#xfc;&#xe7;-23TL"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="odemeyapbutonu">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="&#xd6;deme Yap"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="odemeyapbutonuActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
